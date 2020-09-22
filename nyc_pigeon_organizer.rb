@@ -1,5 +1,5 @@
 require 'pry'
 def nyc_pigeon_organizer(data)
-  lijv;ojgvs
+  binding.pry
 end
    
