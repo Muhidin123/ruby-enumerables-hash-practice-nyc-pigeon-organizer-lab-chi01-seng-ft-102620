@@ -4,7 +4,7 @@ def nyc_pigeon_organizer(data)
     value.each do |key_inside, names|
       names.each do |key_inside2|
         solution[key_inside2] = key
-        binding.pry
+        solution
       end
     end
   end
