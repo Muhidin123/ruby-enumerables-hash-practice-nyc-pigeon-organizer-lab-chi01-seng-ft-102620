@@ -8,5 +8,7 @@ def nyc_pigeon_organizer(data)
         binding.pry
       end
     end
+    solution[key_inside2][key] = key_inside.to_s
+    binding.pry
   end
 end
