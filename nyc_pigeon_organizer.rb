@@ -7,5 +7,6 @@ def nyc_pigeon_organizer(data)
       end
     end
     solution[key_inside2][key] = key_inside.to_s
+    solution
   end
 end
